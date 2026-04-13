@@ -12,4 +12,19 @@ This program will provide a Task Scheduler that allows users to create tasks,mar
 - Mark tasks as completed or not completed
 - Save tasks in text files
 
+## Non-Functional Requirement
+- Written in python
+- Runs in the terminal
+- Use text file to store the result of modifications
+- single-user program
+
+
+## Out of scope Features
+- Login accounts
+- online or network features
+- graphical user interface
+- database storage
+- mobile app
+- 
+
 
